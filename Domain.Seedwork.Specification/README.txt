@@ -1,0 +1,1 @@
+﻿C# implementation DDD specification pattern
